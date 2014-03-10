@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      clone_order:
+        title: "Clone Order"
+        menu: "Clone Order for %{model_label} '%{object_label}'"
+        breadcrumb: "Clone Order"
+        link: "Clone Order"
+        bulk_link: "Clone Order selected %{model_label_plural}"
+        done: "Clone Ordered"
